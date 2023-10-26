@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Dongjun%20Github&fontSize=90)
 
 ### ⭐ Language
-<img alt="Java" src="https://img.shields.io/badge/Java-007396?&style=for-the-badge&logo=OpenJDK&logoColor=black"/>
+<img alt="Java" src="https://img.shields.io/badge/Java-007396?&style=for-the-badge&logo=OpenJDK&logoColor=black"/> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
 
 ### 🔨 Stack
 <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?&style=for-the-badge&logo=Spring&logoColor=white"/> <img alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot-6DB33F?&style=for-the-badge&logo=SpringBoot&logoColor=white"/> <img alt="MySql" src="https://img.shields.io/badge/MySql-4479A1?&style=for-the-badge&logo=MySql&logoColor=white"/> <img alt="AmazonAWS" src ="https://img.shields.io/badge/AmazonAWS-232F3E.svg?&style=for-the-badge&logo=AmazonAWS&logoColor=white"/>
