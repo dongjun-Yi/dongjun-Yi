@@ -1,7 +1,3 @@
-### Hi there 👋
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Dongjun%20Github&fontSize=90)
-
 ### ⭐ Language
 <img alt="Java" src="https://img.shields.io/badge/Java-007396?&style=for-the-badge&logo=OpenJDK&logoColor=black"/> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
 
